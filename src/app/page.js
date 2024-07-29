@@ -13,12 +13,12 @@ export default function Home() {
     <main className="flex min-h-screen flex-col bg-[#121212]">
       <Navbar/>
       <div className="container mt-24 mx-auto px-12 py">
-      <HeroSection id="home"/>
+      <HeroSection />
       <AchievementSection/>
-      <AboutSection id="about"/>
-      <EducationSection id='education' />
-      <ExperienceSection id='experience'/>
-      <EmailSection id="contact"/>
+      <AboutSection />
+      <EducationSection />
+      <ExperienceSection />
+      <EmailSection />
       </div>
       <Footer/>
     </main>
