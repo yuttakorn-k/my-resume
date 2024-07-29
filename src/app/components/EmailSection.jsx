@@ -32,7 +32,7 @@ const EmailSection = () => {
     }
 
     return (
-        <section className='grid md:grid-cols-2 my-12 md:my-12 py-24 gab-4 relative' id="contact">
+        <section className='grid md:grid-cols-2 my-12 md:my-12 py-24 gab-4 relative'>
             <div className='bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-[#0B47BF] to-transparent rounded-full h-80 w-80 z-0 blur-lg absolute top-3/4 -left-4 transform -translate-x-1/2 -translate-y-1/4'></div>
             <div className='z-10'><h5 className='text-xl font-bold text-white my-2'>ติดต่อฉัน</h5>
                 <p className='text-[#ADB7BE] mb-4 max-w-md'>
