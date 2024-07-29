@@ -38,7 +38,7 @@ const HeroSection = () => {
                         และสามารถสร้างเว็บเป็นของตัวเองได้โดยที่ไม่ต้องดู Tutorial
                     </p>
                     <div>
-                        <button className='px-6 py-3 rounded-full w-full sm:w-fit mr-4 bg-gradient-to-br from-primary via-[#072B73] to-[#0B47BF] hover:bg-slate-200 text-white'>Hire Me</button>
+                        <a href='/#contact' className='px-6 py-3 rounded-full w-full sm:w-fit mr-4 bg-gradient-to-br from-primary via-[#072B73] to-[#0B47BF] hover:bg-slate-200 text-white'>Hire Me</a>
                         <button className='px-1 py-1 rounded-full w-full sm:w-fit bg-gradient-to-br from-blue-500 via-[#011111] to-blue-500 hover:bg-slate-800 text-white  mt-3'>
                             <span className='block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2'>Download CV</span>
                         </button>
