@@ -39,7 +39,7 @@ const TAB_DATA = [
                     <li>ตำแหน่งงาน: IT Support</li>
                     <li>ระดับ: เจ้าหน้าที่</li>
                     <li>รายละเอียดงาน: ซัพพอร์ตงานทั่วไปทั้ง Hardware และ Software / ให้ข้อมูลสินค้ากับลูกค้าทาง Social และ มือถือ เก็บข้อมูลและสรุปข้อมูล / 
-                        เขียนเว็บให้กับองค์กร ในภาษา HTML PHP CSS JAVASCRIPT 
+                        เขียนเว็บให้กับองค์กร ในภาษา HTML PHP CSS JAVASCRIPT
                     </li>
                 </ul>
             </ul>

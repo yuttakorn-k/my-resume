@@ -12,7 +12,7 @@ const TAB_DATA = [
                 <li>PHP</li>
                 <li>HTML</li>
                 <li>CSS</li>
-                <li>JAVASCRITP</li>
+                <li>JAVASCRIPT</li>
                 <li>PYTHON</li>
                 <li>SQL</li>
                 <li>VB</li>
